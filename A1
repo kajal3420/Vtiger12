@@ -6,5 +6,12 @@
 <h2>demo page </h2>
 <h3>demo1</h3>
 <h4>demo2</h4>
+<ul>
+<li>pune</li>
+<li>mumbai</li>
+<li>satara</li>
+<li>kolhapur</li>
+<li>nashik</li>
+</ul>
 </body>
 </html>
